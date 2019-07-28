@@ -1,0 +1,4 @@
+
+@font-face{font-family:'somefont';src:url('../fonts/somefont') format('woff2'),
+         url('../fonts/somefont') format('woff');font-weight:normal;font-style:normal}@font-face{font-family:'somefont';src:url('../fonts/somefont') format('woff2'),
+         url('../fonts/somefont') format('woff');font-weight:bold;font-style:bold}body{font-family:'Montserrat', sans-serif;font-size:12px;color:#727f82}body{width:1920px;height:100vh;margin:0}.container{max-width:1300px}
